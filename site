@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+        }
+        
+        .profile-pic {
+            display: block;
+            margin: 20px auto;
+            max-width: 200px;
+            border-radius: 50%;
+        }
+        
+        .bio {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .info {
+            margin-bottom: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>About Me</h1>
+    <img class="profile-pic" src="https://i.pinimg.com/736x/c2/cf/2d/c2cf2dc539707a77ca40b8afe64ab1c1--pikachu-raichu-cute-pikachu.jpg" alt="Profile Picture">
+    
+    <div class="bio">
+        <h2 style="text-align: center;">Hi, I'm Bug Dvorcak</h2>
+        <p style="text-align: center;">Snapchater, TikToker, Programmer</p>
+    </div>
+    
+    <div class="info" style="text-align: center;">
+        <h3>Contact Information:</h3>
+        <p>Email: dvorcakelias@gmail.com</p>
+        <p>Phone: +421944412481</p>
+    </div>
+    
+    <div class="info" style="text-align: center;">
+        <h3>Social Media:</h3>
+        <p>TikTok: <a href="https://www.tiktok.com/@yWindowskoo">@yWindowskoo</a></p>
+        <p>Snapchat: @bugdvorcak</p>
+        <p>GitHub: <a href="https://github.com/dvorcakelias">dvorcakelias</a></p>
+    </div>
+    
+    <!-- Add more sections or customize as per your needs -->
+</body>
+</html>
